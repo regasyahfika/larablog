@@ -21,6 +21,5 @@ Cara Install
 - Pada terminal php artisan key:generate.
 - Buat database mysql.
 - Setting database file .env.
-- Ketikan perintah php artisan migrate --seed
 - Jalankan php artisan serve
 - Selesai
